@@ -18,7 +18,7 @@ Este repositório oferece um código simples que permite transformar um arquivo 
 
 3. **Resultado:**
    - O script utilizará o `pyinstaller` para criar um diretório `dist` que conterá o executável da sua aplicação.
-   - ![Resultado]([https://codeoflove.netlify.app/assets/img/background-1](https://github.com/devpit/executavel_em_pyhon/edit/main/resultado.png)
+   - ![Resultado]([[https://codeoflove.netlify.app/assets/img/background-1](https://github.com/devpit/executavel_em_pyhon/edit/main/resultado.png]([https://github.com/devpit/executavel_em_pyhon/blob/main/resultado.png](https://github.com/devpit/executavel_em_pyhon/blob/main/resultado.png)))
 
 ## Contribuição
 
