@@ -18,8 +18,7 @@ Este repositório oferece um código simples que permite transformar um arquivo 
 
 3. **Resultado:**
    - O script utilizará o `pyinstaller` para criar um diretório `dist` que conterá o executável da sua aplicação.
-   ![Resultado](https://raw.githubusercontent.com/devpit/executavel_em_pyhon/main/resultado.png)
-
+   - 
 ## Contribuição
 
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
